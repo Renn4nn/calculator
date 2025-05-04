@@ -19,7 +19,7 @@ git clone https://github.com/Renn4nn/calculator
 cd calculator
 npm install
 npm run dev
-
+```
 
 ---
 
