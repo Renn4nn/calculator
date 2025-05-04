@@ -1,6 +1,6 @@
-# Projeto Calculadora Simples 🧮
+Calculadora Simples 🧮
 
-Projeto de uma calculadora simples feito em react usando a biblioteca styled-components!
+Projeto de uma calculadora simples feito em React usando a biblioteca styled-components!
 
 ---
 
