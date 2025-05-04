@@ -1,12 +1,10 @@
-# Projeto Calculadora Simples
+# Projeto Calculadora Simples 🧮
 
 Projeto de uma calculadora simples feito em react usando a biblioteca styled-components!
 
 ---
 
-## 🚀 Instalação e inicialização do Projeto
-
-### 1⃣ Clone o repositório
+## Instalação e inicialização do Projeto 🎯
 
 ```bash
 git clone [https://github.com/Renn4nn/lava-rapido](https://github.com/Renn4nn/calculator)
