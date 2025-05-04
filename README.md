@@ -1,17 +1,25 @@
-Calculadora Simples 🧮
+# 🧮 Calculadora Simples
 
-Projeto de uma calculadora simples feito em React usando a biblioteca styled-components!
+Uma calculadora simples feita com **React** e **styled-components**, com foco em praticar hooks, estados e componentes funcionais.
 
 ---
 
-## Instalação e inicialização do Projeto 🎯
+## 📸 Preview
+
+<img src="https://raw.githubusercontent.com/Renn4nn/calculator/main/screenshot_project.png" alt="Calculadora funcionando" width="400" />
+
+---
+
+## 🎯 Instalação e Execução
+
+Clone o repositório e execute localmente:
 
 ```bash
-git clone [https://github.com/Renn4nn/lava-rapido](https://github.com/Renn4nn/calculator)
+git clone https://github.com/Renn4nn/calculator
 cd calculator
 npm install
 npm run dev
-```
+
 
 ---
 
