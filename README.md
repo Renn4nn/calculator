@@ -23,8 +23,8 @@ npm run dev
 
 ---
 
+---
 
 ## 👨‍💻 Autor
 
 Desenvolvido por **[Renan](https://github.com/Renn4nn)** 🚀
-
