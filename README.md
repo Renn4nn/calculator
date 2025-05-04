@@ -1,7 +1,6 @@
 # 🧮 Calculadora Simples
 
-Uma calculadora simples feita com **React** e **styled-components**, com foco em praticar hooks, estados e componentes funcionais.
-
+Uma calculadora simples feita com **React** e **styled-components**
 ---
 
 ## 📸 Preview
